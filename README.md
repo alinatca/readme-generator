@@ -2,7 +2,7 @@
 
 This is a command line tool that generates a professional README for a new project. As a developer, you can use this tool to quickly create a README file that includes all the necessary information about your project.
 
-# Things I've Learned
+## Things I've Learned
 Throughout the process of creating this command-line application, I've learned several things about creating a high-quality README file that will engage users and encourage contributions. Some of the most important things I've learned include:
 
 - The importance of providing clear and concise instructions for using and contributing to the app
@@ -12,7 +12,7 @@ Throughout the process of creating this command-line application, I've learned s
 - The advantages of using Inquirer to prompt users for input, which streamlines the process of creating a high-quality README
 - Overall, I've gained a deeper understanding of what makes a great README, and I'm excited to apply this knowledge to future projects.
 
-# Challenges
+## Challenges
 While creating this command-line application, I faced several challenges that pushed me to learn and grow as a developer. Some of the most significant challenges I encountered include:
 
 - Figuring out the best way to structure the questions asked by Inquirer to ensure that the user's input would generate a complete and well-organized README
