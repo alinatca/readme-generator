@@ -39,3 +39,11 @@ If you have suggestions for how this tool could be improved, or want to report a
 ## License
 
 This project is licensed under the terms of the [MIT](https://opensource.org/licenses/MIT) license.
+
+## You can reach me at:
+
+Github: [GitHub](https://github.com/alinatca)
+
+Email: alina_tca@yahoo.com
+
+Linkedin: [LinkedIn Profile](https://www.linkedin.com/in/alina-tudor-7a1047168/)
