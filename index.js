@@ -41,7 +41,7 @@ const questions = [
     type: "input",
     name: "tests",
     message: "What command should be run to run tests?",
-    default: "npm test"
+    default: "$ npm test"
 },
 {
     type: "input",
