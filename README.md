@@ -51,7 +51,7 @@ node index.js
 
 Here's a preview of what your generated README file will look like:
 
-![Preview of generated README file](./images/readme-generator.gif)
+![Preview of generated README file](./images/readme-generator-v1.gif)
 
 ## Contributing
 
