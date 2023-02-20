@@ -7,8 +7,8 @@ const generateMarkdown = require("./utils/generateMarkdown");
 const questions = [
 {
     type: 'input',
-    message: 'username',
-    name: 'What is your GitHub username?'
+    name: 'username',
+    message: 'What is your GitHub username?'    
 },
 {
     type: "input",
@@ -29,13 +29,13 @@ const questions = [
     type: "list",
     name: "license",
     message: "What license would you like to use for your application?",
-    choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"]
+    choices: ["MIT", "APACHE 2.0", "BSD 2", "None"]
 },
 {
     type: "input",
     name: "installation",
     message: "What command should be run to install dependencies?",
-    default: "npm i"
+    default: "$ npm i"
 },
 {
     type: "input",
@@ -60,8 +60,7 @@ function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, function (err) {
         if (err) {
             return console.log(err);
-        }
-        console.log("The Readme has been successfully created.");
+        }        
     });
 }
 
