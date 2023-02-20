@@ -34,7 +34,7 @@ Here's a preview of what your generated README file will look like:
 
 ## Contributing
 
-If you have suggestions for how this tool could be improved, or want to report a bug, please open an issue! We'd love to hear from you.
+If you have suggestions for how this tool could be improved, or want to report a bug, please open an issue! I'd love to hear from you.
 
 ## License
 
@@ -42,8 +42,4 @@ This project is licensed under the terms of the [MIT](https://opensource.org/lic
 
 ## You can reach me at:
 
-Github: [GitHub](https://github.com/alinatca)
-
-Email: alina_tca@yahoo.com
-
-Linkedin: [LinkedIn Profile](https://www.linkedin.com/in/alina-tudor-7a1047168/)
+Github: [GitHub](https://github.com/alinatca) Email: alina_tca@yahoo.com Linkedin: [LinkedIn Profile](https://www.linkedin.com/in/alina-tudor-7a1047168/)
