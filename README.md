@@ -28,12 +28,14 @@ To use this tool, you need to have [Node.js](https://nodejs.org/en/) installed o
 ### Installation
 
 1. Clone this repository: 
-git clone https://github.com/yourusername/README-Generator.git
+git clone git@github.com:alinatca/readme-generator.git
 
 2. Navigate to the directory:
-cd README-Generator
+cd readme-generator
 
-3. Install the required packages:
+3. Open the integrated terminal (VS CODE)
+
+4. Install the required packages:
 npm install
 
 ### Usage
@@ -49,7 +51,7 @@ node index.js
 
 Here's a preview of what your generated README file will look like:
 
-![Preview of generated README file](./preview.png)
+![Preview of generated README file](./images/readme-generator.gif)
 
 ## Contributing
 
