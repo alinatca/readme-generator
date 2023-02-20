@@ -31,9 +31,11 @@ To use this tool, you need to have [Node.js](https://nodejs.org/en/) installed o
 git clone git@github.com:alinatca/readme-generator.git
 
 2. Navigate to the directory:
-cd README-Generator
+cd readme-generator
 
-3. Install the required packages:
+3. Open the integrated terminal (VS CODE)
+
+4. Install the required packages:
 npm install
 
 ### Usage
