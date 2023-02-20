@@ -28,7 +28,7 @@ To use this tool, you need to have [Node.js](https://nodejs.org/en/) installed o
 ### Installation
 
 1. Clone this repository: 
-git clone https://github.com/yourusername/README-Generator.git
+git clone git@github.com:alinatca/readme-generator.git
 
 2. Navigate to the directory:
 cd README-Generator
